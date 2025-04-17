@@ -375,7 +375,7 @@ async def main():
     setup_database()
     
     # Bot tokeni
-    token = os.getenv("BOT_TOKEN", "7713917511:AAHFWbUngqXdCMPr8aC6kc1K2fmAMFvdv6M")
+    token = os.getenv("BOT_TOKEN", "7608483371:AAE64DDey-L-SDWITZvq901MkuyMZ3_fdaM")
     
     # Bot yaratish
     application = ApplicationBuilder().token(token).build()
