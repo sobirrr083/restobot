@@ -405,4 +405,3 @@ async def main():
     # Suhbat modelini qo'shish
     application.add_handler(conv_handler)
 
-    if __name__ == '__main__':
